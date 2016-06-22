@@ -56,7 +56,7 @@ public class AmazonDynamoDBSample {
      *
      * WARNING:
      *      To avoid accidental leakage of your credentials, DO NOT keep
-     *      the credentials file in your source directory.
+     *      the credentials files in your source directory.
      */
 
     static AmazonDynamoDBClient dynamoDB;
